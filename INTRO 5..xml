@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2024-02-07 04:43 PM
+5.0.161.106019 (106019)
+d914fff (Aug 30, 2023 8:06:06 PM)
+-->
+<scene title="INTRO 5." width="1920" height="1080" exportWidth="1280" exportHeight="720" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="4332" fps="60" modifiedTime="1707304390194" amver="106019" ffver="106" am="com.alightcreative.motioo/5.0.161.106019" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <bookmark t="2550" />
+  <bookmark t="2850" />
+  <bookmark t="3516" />
+  <embedScene id="156705" label="Masking Group 1" startTime="0" endTime="4332" fillType="intrinsic" outTime="4332" mediaFillMode="stretch">
+    <transform>
+      <location value="640.000000,360.000000,0.000000" />
+      <pivot value="-4.471375,1.488525" />
+      <scale>
+        <kf t="0.465374" v="0.548809,0.548809" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.003693" v="1.654860,1.654860" />
+      </scale>
+      <rotation>
+        <kf t="0.465374" v="0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.000000" v="-29.634155" />
+      </rotation>
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+      <property name="inTime" type="float" value="0.720000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="false">
+      <property name="strength" type="float">
+        <kf t="1.000000" v="0.150000" />
+        <kf t="0.890582" v="0.000000" />
+      </property>
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.fastboxblur" locallyApplied="false">
+      <property name="strength" type="float">
+        <kf t="1.000000" v="0.150000" />
+        <kf t="0.890582" v="0.000000" />
+      </property>
+      <property name="iter" type="float" value="3.000000" />
+    </effect>
+    <scene title="" width="1282" height="722" exportWidth="1282" exportHeight="722" precompose="dynamicResolution" bgcolor="#00000000" totalTime="4332" fps="30" modifiedTime="0" amver="106019" ffver="106" am="com.alightcreative.motioo/5.0.161.106019" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <bookmark t="2016" />
+      <bookmark t="2550" />
+      <shape id="156709" label="Rectangle 1" startTime="0" endTime="4332" fillType="color" mediaFillMode="stretch" s=".rect">
+        <transform>
+          <location value="641.000000,361.000000,0.000000" />
+          <scale value="6.378109,3.592040" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+      </shape>
+      <shape id="156716" label="Shape 1" startTime="0" endTime="4332" fillType="none" speed="0.469067" mediaFillMode="stretch">
+        <transform>
+          <location value="635.160339,367.012024,0.000000" />
+          <scale value="0.961551,0.961551" />
+          <opacity>
+            <kf t="0.465374" v="1.000000" />
+            <kf t="0.557710" v="0.000000" />
+          </opacity>
+        </transform>
+        <fillColor value="#ffafbfba" />
+        <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="false">
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.465374" v="100.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+          </property>
+        </effect>
+        <path-stroke direction="centered" end-size="1.500000">
+          <color value="#ffffffff" />
+          <size value="8.000000" />
+        </path-stroke>
+        <path d="M -150.53125 203.89062L -41.20044 20.507812L -6.7656555 70.96949L -46.899933 143.41772L 204.16455 143.41772L 238.59937 208.38025L -152.02502 208.286L -150.53125 203.89062" />
+      </shape>
+      <shape id="156717" label="Shape 1" startTime="0" endTime="4332" fillType="none" speed="0.469067" mediaFillMode="stretch">
+        <transform>
+          <location value="693.407166,461.685547,0.000000" />
+          <scale value="0.984581,0.984581" />
+          <rotation value="120.731705" />
+          <opacity>
+            <kf t="0.465374" v="1.000000" />
+            <kf t="0.557710" v="0.000000" />
+          </opacity>
+        </transform>
+        <fillColor value="#ffafbfba" />
+        <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="false">
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.465374" v="100.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+          </property>
+        </effect>
+        <path-stroke direction="centered" end-size="1.500000">
+          <color value="#ff17e1e1" />
+          <size value="8.000000" />
+        </path-stroke>
+        <path d="M -150.53125 203.89062L -41.20044 20.507812L -6.7656555 70.96949L -46.899933 143.41772L 204.16455 143.41772L 238.59937 208.38025L -154.57819 204.8416L -150.53125 203.89062" />
+      </shape>
+      <shape id="156719" label="Shape 1" startTime="0" endTime="4332" fillType="none" speed="0.469067" mediaFillMode="stretch">
+        <transform>
+          <location value="582.808716,466.144531,0.000000" />
+          <scale value="0.984581,0.984581" />
+          <rotation value="-120.731705" />
+          <opacity>
+            <kf t="0.465374" v="1.000000" />
+            <kf t="0.557710" v="0.000000" />
+          </opacity>
+        </transform>
+        <fillColor value="#ffafbfba" />
+        <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="false">
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.465374" v="100.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+          </property>
+        </effect>
+        <path-stroke direction="centered" end-size="1.500000">
+          <color value="#fffd0101" />
+          <size value="8.000000" />
+        </path-stroke>
+        <path d="M -150.53125 203.89062L -41.20044 20.507812L -6.7656555 70.96949L -46.899933 143.41772L 204.16455 143.41772L 238.59937 208.38025L -154.57819 204.8416L -150.53125 203.89062" />
+      </shape>
+      <embedScene id="156715" label="Group 1" startTime="2000" endTime="4332" fillType="intrinsic" blending="exclusion" mediaFillMode="stretch">
+        <transform>
+          <location value="618.446411,354.445923,0.000000" />
+          <pivot value="-5.471375,0.488525" />
+          <scale value="0.968490,0.968490" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <effect id="com.alightcreative.effects.fade" locallyApplied="false">
+          <property name="inTime" type="float" value="0.500000" />
+          <property name="outTime" type="float" value="0.500000" />
+        </effect>
+        <scene title="" width="1284" height="724" exportWidth="1284" exportHeight="724" precompose="dynamicResolution" bgcolor="#00000000" totalTime="4332" fps="30" modifiedTime="0" amver="106019" ffver="106" am="com.alightcreative.motioo/5.0.161.106019" amplatform="android" retime="freeze" retimeOut="4332" retimeAdaptFPS="false">
+          <shape id="156710" label="Shape 1" startTime="0" endTime="4332" fillType="color" speed="0.469067" mediaFillMode="stretch">
+            <transform>
+              <location>
+                <kf t="0.042244" v="637.520752,362.677490,0.000000" />
+                <kf t="0.003693" v="637.520752,362.677490,0.000000" />
+                <kf t="0.119114" v="608.020752,488.177490,0.000000" e="cubicBezier 0.0 1.0 0.34986228 1.0" />
+              </location>
+              <scale value="0.987151,0.987151" />
+            </transform>
+            <path-stroke direction="centered" enabled="false" end-size="1.500000">
+              <color value="#ffffffff" />
+              <size value="8.000000" />
+            </path-stroke>
+            <path d="M -150.53125 203.89062L -41.20044 20.507812L -6.7656555 70.96949L -46.899933 143.41772L 204.16455 143.41772L 238.59937 208.38025L -150.53125 203.89062" />
+          </shape>
+          <shape id="156711" label="Shape 1" startTime="0" endTime="4332" fillType="color" speed="0.469067" mediaFillMode="stretch">
+            <transform>
+              <location>
+                <kf t="0.057710" v="694.407166,462.685547,0.000000" />
+                <kf t="0.080794" v="694.407166,462.685547,0.000000" />
+                <kf t="0.126962" v="578.907166,322.185547,0.000000" e="cubicBezier 0.024104714 1.0 0.34618914 1.0" />
+              </location>
+              <scale value="0.984581,0.984581" />
+              <rotation value="120.731705" />
+            </transform>
+            <path-stroke direction="centered" enabled="false" end-size="1.500000">
+              <color value="#ffffffff" />
+              <size value="8.000000" />
+            </path-stroke>
+            <path d="M -150.53125 203.89062L -41.20044 20.507812L -6.7656555 70.96949L -46.899933 143.41772L 204.16455 143.41772L 238.59937 208.38025L -150.53125 203.89062" />
+          </shape>
+          <shape id="156712" label="Shape 1" startTime="0" endTime="4332" fillType="color" speed="0.469067" mediaFillMode="stretch">
+            <transform>
+              <location>
+                <kf t="0.011542" v="583.705994,466.175781,0.000000" />
+                <kf t="0.072946" v="583.705994,466.175781,0.000000" />
+                <kf t="0.480840" v="583.705994,466.175781,0.000000" e="cubicBezier 0.44742882 0.0 1.0 0.04065746" />
+                <kf t="0.150046" v="826.688782,394.675781,0.000000" e="cubicBezier 0.0 1.0 0.21395779 1.0" />
+              </location>
+              <rotation value="-120.731705" />
+            </transform>
+            <path-stroke direction="centered" enabled="false" end-size="1.500000">
+              <color value="#ffffffff" />
+              <size value="8.000000" />
+            </path-stroke>
+            <path d="M -150.53125 203.89062L -41.20044 20.507812L -6.7656555 70.96949L -46.899933 143.41772L 204.16455 143.41772L 238.59937 208.38025L -150.53125 203.89062" />
+          </shape>
+          <text id="6418525" startTime="333" endTime="2365" fillType="color" mediaFillMode="fill" size="28.000000" font="googlefonts?name=Oswald&amp;weight=500" wrapWidth="602" align="left">
+            <transform>
+              <location value="880.740295,382.828613,0.000000" />
+            </transform>
+            <fillColor value="#ffff4444" />
+            <effect id="com.alightcreative.effects.softglow" locallyApplied="true">
+              <property name="strength" type="float" value="2.000000" />
+              <property name="brightness" type="float" value="2.000000" />
+              <property name="contrast" type="float" value="1.000000" />
+              <property name="highlights" type="float" value="0.500000" />
+              <property name="color" type="color" value="#ffff5566" />
+              <property name="blend" type="float" value="0.250000" />
+              <property name="alpha" type="float" value="1.000000" />
+              <property name="outsideAlpha" type="float" value="0.000000" />
+            </effect>
+            <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+              <property name="phase" type="float" value="0.190000" />
+              <property name="a1d" type="float" value="3.500000" />
+              <property name="m1" type="float" value="10.100000" />
+              <property name="m2" type="float" value="1.500000" />
+              <property name="a2d" type="float" value="87.000000" />
+              <property name="damping" type="float" value="0.000000" />
+              <property name="dampingSpace" type="float" value="0.000000" />
+              <property name="dampingOrigin" type="float" value="0.500000" />
+              <property name="screenSpace" type="bool" value="false" />
+            </effect>
+            <content>PICKS </content>
+          </text>
+        </scene>
+      </embedScene>
+    </scene>
+  </embedScene>
+</scene>
